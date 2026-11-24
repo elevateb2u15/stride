@@ -1,0 +1,9 @@
+[project]
+name = "02-connected-mobility-data-privacy"
+version = "2.1.0"
+description = "Fictional enterprise case evidence and offline read-only service reference"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["src"]
